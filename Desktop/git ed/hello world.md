@@ -1,2 +1,3 @@
 hello world!!!
 open the windows
+Начинаем наше знакомство с контролем версий 
